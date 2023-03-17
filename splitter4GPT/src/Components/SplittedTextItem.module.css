@@ -1,0 +1,20 @@
+.itemContainer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.itemNumber {
+  font-weight: bold;
+}
+
+.textInput {
+  flex-grow: 1;
+}
+
+.buttonCopied {
+  background-color: #32cd32;
+  color: white;
+}
+

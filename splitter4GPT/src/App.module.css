@@ -1,0 +1,20 @@
+.controlPanel {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.textArea {
+  width: 100%;
+  resize: none;
+  margin-bottom: 16px;
+}
+
+.footer {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 32px;
+}
